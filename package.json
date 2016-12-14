@@ -1,5 +1,5 @@
 {
-  "name": "mousetrap",
+  "name": "mousetrap-b",
   "version": "1.7.0",
   "description": "Simple library for handling keyboard shortcuts",
   "main": "mousetrap.js",
