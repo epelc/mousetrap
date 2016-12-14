@@ -1,5 +1,5 @@
 {
-  "name": "mousetrap-b",
+  "name": "@epelc/mousetrap",
   "version": "1.7.0",
   "description": "Simple library for handling keyboard shortcuts",
   "main": "mousetrap.js",
